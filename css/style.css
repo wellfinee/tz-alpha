@@ -22,7 +22,7 @@ body{
     background-size: 100% 100%;
     background-repeat: no-repeat;
     
-    background-image: url("/image/phone.webp");
+    background-image: url("image/phone.webp");
 }
 .pagecrm_first-screen{
     padding: 4.4vw 4.4vw 0 4.4vw;
@@ -66,7 +66,7 @@ body{
 }
 
 .pagecrm_navbar-dark .pagecrm_navbar-toggler-icon {
-    background-image: url("/image/gamburger.svg") !important;
+    background-image: url("image/gamburger.svg") !important;
     width: 7.2vw !important;
     background-position: center;
     background-size: 100% 100%;
@@ -285,7 +285,7 @@ color: white
     margin-bottom: 8.55vw;
   }
   .pagecrm_crm-sys-item > ul li{
-    list-style-image: url(/image/v.svg);
+    list-style-image: url(./../image/v.svg);
   }
   .pagecrm_crm-sys-item{
     border: 1px solid;
@@ -628,7 +628,7 @@ box-shadow: 0px 0px 19px 9px #A22DF71A;
     box-shadow: 0px 0px 22px 3px rgba(215, 149, 255, 1);
     padding-bottom: 5.27vw;
     border-radius: 4.44vw;
-    background-image:  url("/image/xuy.svg");
+    background-image:  url("./../image/xuy.svg");
     background-position: center;
     background-size: cover;
     color: white;
@@ -663,7 +663,7 @@ color: #B195FF;
 margin-top: -0.5vw
   }
   .pagecrm_order-item > ul li{
-      list-style-image: url(/image/v.svg);
+      list-style-image: url(./../image/v.svg);
       height: 8.33vw;
       font-family: "Play", sans-serif;
 font-size: 3.33vw;
@@ -1334,7 +1334,7 @@ text-align: center;
         width: 1.5vw
       }
       body{
-        background-image: url('/image/pc.webp');
+        background-image: url('./../image/pc.webp');
       }
       .pagecrm_search-menu{
       
@@ -2339,7 +2339,7 @@ ul {
   text-shadow:0px 0px 20px #D795FF,0px 0px 4px #D795FF;
 }
 #horizontal-multilevel-menu a.parent {
-  background:url(/image/menu-array.svg) center right no-repeat;
+  background:url(image/menu-array.svg) center right no-repeat;
 }
 #horizontal-multilevel-menu li:hover {
   color:#fff;
