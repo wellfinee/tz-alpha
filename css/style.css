@@ -22,7 +22,7 @@ body{
     background-size: 100% 100%;
     background-repeat: no-repeat;
     
-    background-image: url("image/phone.webp");
+    background-image: url("./../image/phone.webp");
 }
 .pagecrm_first-screen{
     padding: 4.4vw 4.4vw 0 4.4vw;
@@ -66,7 +66,7 @@ body{
 }
 
 .pagecrm_navbar-dark .pagecrm_navbar-toggler-icon {
-    background-image: url("image/gamburger.svg") !important;
+    background-image: url("./../image/gamburger.svg") !important;
     width: 7.2vw !important;
     background-position: center;
     background-size: 100% 100%;
@@ -2339,7 +2339,7 @@ ul {
   text-shadow:0px 0px 20px #D795FF,0px 0px 4px #D795FF;
 }
 #horizontal-multilevel-menu a.parent {
-  background:url(image/menu-array.svg) center right no-repeat;
+  background:url(./../image/menu-array.svg) center right no-repeat;
 }
 #horizontal-multilevel-menu li:hover {
   color:#fff;
